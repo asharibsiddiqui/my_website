@@ -2,4 +2,4 @@
 
 **Day 1**
 
-Hello World, how are you doing...
+Hello World
