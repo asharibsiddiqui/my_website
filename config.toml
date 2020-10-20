@@ -95,7 +95,7 @@ disqusShortname = ""
       title = "About Me"
       subtitle = "Who I Am"
       image = "projects/project1_image.jpg"
-      url = "blogs/blog2"
+      url = "blogs/blog1"
 
     [[params.tiles.showcase]]
       title = "Yield Curve Inversion"
