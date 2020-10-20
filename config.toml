@@ -95,13 +95,13 @@ disqusShortname = ""
       title = "About Me"
       subtitle = "Who I Am"
       image = "projects/project1_image.jpg"
-      url = "blogs/blog1"
+      url = "blogs/blog5"
 
-    [[params.tiles.showcase]]
-      title = "Passion"
-      subtitle = "What Drives Me"
-      image = "projects/project2_image.jpg"
-      url = "projects/project2"
+#    [[params.tiles.showcase]]
+#      title = "Passion"
+#      subtitle = "What Drives Me"
+#      image = "projects/project2_image.jpg"
+#      url = "projects/project2"
 
     [[params.tiles.showcase]]
       title = "Yield Curve Inversion"
@@ -113,19 +113,19 @@ disqusShortname = ""
       title = "Shanghai AirBnB Analysis"
       subtitle = "Data Analytics Project"
       image = "projects/project4_image.jpg"
-      url = "blogs/blog"
+      url = "blogs/blog10"
 
-    [[params.tiles.showcase]]
-      title = "IMDB Rating"
-      subtitle = ""
-      image = "projects/project5_image.jpg"
-      url = "blogs/blog9"
+#    [[params.tiles.showcase]]
+#      title = "IMDB Rating"
+#      subtitle = ""
+#      image = "projects/project5_image.jpg"
+#      url = "blogs/blog9"
       
     [[params.tiles.showcase]]
       title = "Gross Domestic Product"
       subtitle = "And its Component"
       image = "projects/project6_image.jpg"
-      url = "blogs/blog6"
+      url = "blogs/blog10"
       # You can make more showcases by copy and pasting the code above
 
   [params.blog]

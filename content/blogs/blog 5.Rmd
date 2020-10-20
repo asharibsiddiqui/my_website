@@ -1,0 +1,19 @@
+---
+title: "About Me"
+date: '2020-10-20'
+description: ''
+draft: no
+keywords: ''
+image: london.jpg
+slug: blog5
+categories:
+- ''
+- ''
+---
+
+##My Journey
+
+
+
+##My Hobbies
+In my free time I enjoy playing sports, keeping up to date with the markets and watching documentaries on history and nature. Sports has been an important aspect of my life from a young age. Swimming and doing gymnastics during my school days to playing cricket, football and squash during my undergraduate studies have played a critical role in my mental well-being and physical fitness as well as honing my leadership and communication skills. I currently play either football or squash every day with my friends after coming back from my internship. During my undergraduate studies, studying topics as well as doing projects in finance began my interest in studying the relationship between macroeconomic events and the financial markets. Writing a comprehensive equity and debt analysis report of a FTSE 100 firm to provide a recommendation on whether we should buy, hold or sell the stock was particularly piquant. I conducted a detailed industry, strategy, accounting, financial and prospective analysis to gain a deeper understanding of my chosen FTSE 100 firm, Barclays, and honed my computer skills on Excel and the Bloomberg Terminal by doing quantitative financial analysis. This experience provided me with practical insight into the finance industry and instilled a habit of reading the Financial Times and the Economist. This habit serves me well during my internship as it helps me sharpen my understanding of financial issues. I also keenly watch Bloomberg to get insight into the minds of leaders in the financial world like Ray Dalio and learn from their experiences. Lastly, watching National Geographic and History Channel from a young age evolved my interest in nature and history. To do this day I thoroughly enjoy watching documentaries like the Planet Earth and shows like the Cosmos to deepen my appreciation of nature.
