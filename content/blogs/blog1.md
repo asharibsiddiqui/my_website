@@ -7,7 +7,7 @@ description: ""
 draft: false
 image: london.jpg
 keywords: ""
-slug: blog 1
+slug: blog1
 title: About Me
 ---
 

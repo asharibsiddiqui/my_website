@@ -97,12 +97,6 @@ disqusShortname = ""
       image = "projects/project1_image.jpg"
       url = "blogs/blog2"
 
-#    [[params.tiles.showcase]]
-#      title = "Passion"
-#      subtitle = "What Drives Me"
-#      image = "projects/project2_image.jpg"
-#      url = "projects/project2"
-
     [[params.tiles.showcase]]
       title = "Yield Curve Inversion"
       subtitle = "Yield Curve and its Predictive Power"
@@ -126,6 +120,12 @@ disqusShortname = ""
       subtitle = "And its Component over the years"
       image = "projects/project6_image.jpg"
       url = "blogs/blog10"
+      
+    [[params.tiles.showcase]]
+      title = "Pay Inequality"
+      subtitle = "Omega Case Study"
+      image = "projects/project7_image.jpg"
+      url = "blogs/blog11"
       # You can make more showcases by copy and pasting the code above
 
   [params.blog]
@@ -141,7 +141,7 @@ disqusShortname = ""
     title = "Thank You For Visiting My Website!"
     subtitle = "I have made this website to give viewers an idea of who I am and what work I have done at London Business School so far. I will continue to add the work I do during my Masters in Financial Analysis at LBS and beyond. I have attached my Resume below for your reference. Kindly message me if you have any questios or suggestions below."    
     buttonText = "Resume"
-    url = "#"
+    url = "blogs"
 
 
   # Contact section
