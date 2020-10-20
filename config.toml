@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Portfolio website for Kostis Christodoulou"
+title = "Portfolio Website for Kostis Christodoulou"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -51,9 +51,9 @@ disqusShortname = ""
       name = "Blogs"
       url = "blogs"
 
-    [[params.navigation.links]]
-      name = "Generic Blog"
-      url = "blogs/ipsum"
+#   [[params.navigation.links]]
+#      name = "Generic Blog"
+#      url = "blogs/ipsum"
 
     [[params.navigation.links]]
       name = "Elements"
@@ -83,7 +83,7 @@ disqusShortname = ""
     # the 'static/img' folder.
     title = "Hey there, my name is Asharib"
     subtitle = "This is my portfolio website."
-    buttonText = "Get Started"
+    buttonText = "Learn more about me and my work"
 
 
   # Tiles Section
@@ -95,7 +95,7 @@ disqusShortname = ""
       title = "About Me"
       subtitle = "Who I Am"
       image = "projects/project1_image.jpg"
-      url = "projects/project1"
+      url = "blogs/blog1"
 
     [[params.tiles.showcase]]
       title = "Passion"
@@ -104,29 +104,29 @@ disqusShortname = ""
       url = "projects/project2"
 
     [[params.tiles.showcase]]
-      title = "Future"
-      subtitle = "Where I Want To Be"
+      title = "Yield Curve Inversion"
+      subtitle = "Yield Curve and its Predictive Power"
       image = "projects/project3_image.jpg"
-      url = "projects/project3"
+      url = "blogs/blog5"
       
     [[params.tiles.showcase]]
       title = "Shanghai AirBnB Analysis"
       subtitle = "Data Analytics Project"
       image = "projects/project4_image.jpg"
-      url = "projects/project4"
+      url = "blogs/blog4"
 
     [[params.tiles.showcase]]
-      title = "Consequat"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic05.jpg"
-      url = "blogs/Consequat"
-
+      title = "IMDB Rating"
+      subtitle = ""
+      image = "projects/project5_image.jpg"
+      url = "blogs/blog5"
+      
     [[params.tiles.showcase]]
-      title = "Etiam"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic06.jpg"
-      url = "blogs/ipsum"
-    # You can make more showcases by copy and pasting the code above
+      title = "Gross Domestic Product"
+      subtitle = "And its Component"
+      image = "projects/project6_image.jpg"
+      url = "projects/project6"
+      # You can make more showcases by copy and pasting the code above
 
   [params.blog]
     # All blogs defined in their own files. You can find example blogs
@@ -144,7 +144,7 @@ disqusShortname = ""
     Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
     Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
     Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
-    buttonText = "Get Started"
+    buttonText = "Back to the top"
     url = "blogs"
 
 
