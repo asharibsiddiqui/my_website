@@ -1,22 +1,8 @@
----
-title: "IMDB Ratings"
-date: '2020-10-20'
-description: ''
-draft: no
-keywords: ''
-image: imdb.jpg
-slug: blog9
-categories:
-- ''
-- ''
----
 
 
 <div id="imdb-ratings-differences-between-directors" class="section level1">
-<h1>IMDB ratings: Differences between directors</h1>
+<h1>IMDB ratings: Differences Between Directors</h1>
 <p>We explore whether the true mean IMDB rating for Steven Spielberg and Tim Burton are the same or not. As we can see according to the following graph, the confidence intervals for the mean ratings of these two directors overlap.</p>
-<p><em>Sample Graph:</em>
-<img src="C:/Users/ashar/Documents/London Business School/Term 1/Data Analytics for Finance/my_website/my_website/images/directors.png" width="100%" style="display: block; margin: auto;" /></p>
 <p><strong>Before anything, write down the null and alternative hypotheses, as well as the resulting test statistic and the associated t-stat or p-value. At the end of the day, what do you conclude?</strong></p>
 <ul>
 <li>Null Hypothesis: The true difference of mean IMDB ratings is equal to zero</li>
@@ -144,7 +130,7 @@ ggplot(movies1,
     axis.text.y = element_text(size = 12), #denotes y-axis ticks
     axis.title.x = element_text(size = 12)
   ) </code></pre>
-<p><img src="/blogs/blog9_files/figure-html/intervals_graph-1.png" width="1152" style="display: block; margin: auto;" /></p>
+<p><img src="blog9_files/figure-html/intervals_graph-1.png" width="1152" style="display: block; margin: auto;" /></p>
 <p>Finally, we perform a hypothesis test, using two methods. First, using the t-test, and second by simulating data with the infer package.</p>
 <pre class="r"><code># hypothesis testing using t.test() 
 t.test(rating~director, data=movies_dir)</code></pre>
@@ -182,14 +168,14 @@ movies_null_diff %&gt;%
        y = &quot;Count&quot;, 
        x = &quot;&quot;
        )</code></pre>
-<p><img src="/blogs/blog9_files/figure-html/IMDB_hypothesis_test-1.png" width="1152" style="display: block; margin: auto;" /></p>
+<p><img src="blog9_files/figure-html/IMDB_hypothesis_test-1.png" width="1152" style="display: block; margin: auto;" /></p>
 <pre class="r"><code># calculate the p-value
 movies_null_diff %&gt;%
   get_p_value(obs_stat = movies_obs_diff, direction = &quot;two-sided&quot;)</code></pre>
 <pre><code>## # A tibble: 1 x 1
 ##   p_value
 ##     &lt;dbl&gt;
-## 1   0.018</code></pre>
+## 1    0.01</code></pre>
 <p>Given that our 95% Confidence Intervals overlap (as seen in the graph), would like to understand whether the mean IMDB ratings for Steven Spielberg and Tim Burton could be identical or not. Therefore, we begin with the null hypothesis: there is no difference between each director’s mean IMDB rating. The alternative hypothesis is that there is a difference between their mean IMDB ratings</p>
 <p>We use two methods to investigate this null hypothesis.</p>
 <p>First, we use the t-test function. From this, we obtain a t-statistic of 2.7144 and a p-value of 0.01078. Given that we obtain a t-stat greater than 2, and a p-value smaller than 5% (which are the usual benchmarks for this kind of analysis i.e. we’re not doing physics here), we can reject the null hypothesis. In other words, there is a significant difference between the mean IMDB ratings of each director, which we cannot ignore.</p>

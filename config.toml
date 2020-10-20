@@ -107,13 +107,13 @@ disqusShortname = ""
       title = "Yield Curve Inversion"
       subtitle = "Yield Curve and its Predictive Power"
       image = "projects/project3_image.jpg"
-      url = "blogs/blog5"
+      url = "blogs/blog7"
       
     [[params.tiles.showcase]]
       title = "Shanghai AirBnB Analysis"
       subtitle = "Data Analytics Project"
       image = "projects/project4_image.jpg"
-      url = "blogs/blog4"
+      url = "blogs/blog"
 
     [[params.tiles.showcase]]
       title = "IMDB Rating"

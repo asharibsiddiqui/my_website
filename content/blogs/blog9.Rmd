@@ -47,14 +47,9 @@ library(tidyquant)
 
 
 
-# IMDB ratings: Differences between directors
+# IMDB ratings: Differences Between Directors
 
 We explore whether the true mean IMDB rating for Steven Spielberg and Tim Burton are the same or not. As we can see according to the following graph, the confidence intervals for the mean ratings of these two directors overlap. 
-
-*Sample Graph:*
-```{r directors, echo=FALSE, out.width="100%"}
-knitr::include_graphics(here::here("images", "directors.png"), error = FALSE)
-```
 
 **Before anything, write down the null and alternative hypotheses, as well as the resulting test statistic and the associated t-stat or p-value. At the end of the day, what do you conclude?**
 
