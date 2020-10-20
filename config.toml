@@ -95,7 +95,7 @@ disqusShortname = ""
       title = "About Me"
       subtitle = "Who I Am"
       image = "projects/project1_image.jpg"
-      url = "blogs/blog5"
+      url = "blogs/blog1"
 
 #    [[params.tiles.showcase]]
 #      title = "Passion"
@@ -113,7 +113,7 @@ disqusShortname = ""
       title = "Shanghai AirBnB Analysis"
       subtitle = "Data Analytics Project"
       image = "projects/project4_image.jpg"
-      url = "blogs/blog10"
+      url = "blogs/blog8"
 
 #    [[params.tiles.showcase]]
 #      title = "IMDB Rating"
@@ -161,7 +161,7 @@ disqusShortname = ""
     # - send a dummy email yourself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-    # formEmail = "example@domain.com"
+    formEmail = "asiddiqui.mfa2021@london.edu"
 
     # Contact Section
     # You can add multiple emails, phone numbers, or addresses
