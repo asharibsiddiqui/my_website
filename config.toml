@@ -92,34 +92,34 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Aliquam"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "About Me"
+      subtitle = "Who I Am"
       image = "projects/project1_image.jpg"
       url = "projects/project1"
 
     [[params.tiles.showcase]]
-      title = "Tempus"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic02.jpg"
-      url = "blogs/tempus"
+      title = "Passion"
+      subtitle = "What Drives Me"
+      image = "projects/project2_image.jpg"
+      url = "projects/project2"
 
     [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
-      image = "pic03.jpg"
-      url = "blogs/magna"
-
+      title = "Future"
+      subtitle = "Where I Want To Be"
+      image = "projects/project3_image.jpg"
+      url = "projects/project3"
+      
     [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
-      image = "pic04.jpg"
-      url = "blogs/ipsum"
+      title = "Shanghai AirBnB Analysis"
+      subtitle = "Data Analytics Project"
+      image = "projects/project4_image.jpg"
+      url = "projects/project4"
 
     [[params.tiles.showcase]]
       title = "Consequat"
       subtitle = "Ipsum Dolor Sit Amet"
       image = "pic05.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/Consequat"
 
     [[params.tiles.showcase]]
       title = "Etiam"
@@ -174,9 +174,9 @@ disqusShortname = ""
     title = "Email"
     email = "asiddiqui.mfa2021@london.edu"
 
-#    [[params.contact.phone]]
-#    title = "Phone"
-#    phone = "(000) 000-0000 x1234"
+    [[params.contact.phone]]
+    title = "Mobile Phone"
+    phone = "+ 44 7867867080"
 
     [[params.contact.address]]
     title = "Address"
