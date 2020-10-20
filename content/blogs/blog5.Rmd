@@ -1,15 +1,14 @@
 ---
-title: "Yield Curve Inversion"
-author: "Group 15A"
-date: "2020-10-11"
-output:
-  html_document:
-    theme: flatly
-    highlight: zenburn
-    number_sections: yes
-    toc: yes
-    toc_float: yes
-    code_folding: show
+categories:
+- ""
+- ""
+date: "2020-10-20"
+description: ""
+draft: false
+image: pic10.jpg
+keywords: ""
+slug: blog5
+title: Yield Curve Inversion
 ---
 
 
