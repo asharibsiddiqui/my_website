@@ -196,10 +196,10 @@ disqusShortname = ""
 #      url= "https://www.facebook.com"
 #      label = "Facebook"
 
-#    [[params.footer.social]]
-#      icon = "fa-instagram"
-#      url= "https://www.instagram.com"
-#      label = "Instagram"
+    [[params.footer.social]]
+      icon = "fa-instagram"
+      url= "https://www.instagram.com/asharib_s/?hl=en"
+      label = "Instagram"
     
     [[params.footer.social]]
       icon = "fa-github"
