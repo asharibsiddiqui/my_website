@@ -126,6 +126,13 @@ disqusShortname = ""
       subtitle = "Omega Case Study"
       image = "projects/project7_image.jpg"
       url = "blogs/blog11"
+            
+#    [[params.tiles.showcase]]
+#      title = "Resume"
+#      subtitle = ""
+#      image = "projects/project7_image.jpg"
+#      url = resume/asharibsiddiquiresume
+      
       # You can make more showcases by copy and pasting the code above
 
   [params.blog]
@@ -141,7 +148,7 @@ disqusShortname = ""
     title = "Thank You For Visiting My Website!"
     subtitle = "I have made this website to give viewers an idea of who I am and what work I have done at London Business School so far. I will continue to add the work I do during my Masters in Financial Analysis at LBS and beyond. I have attached my Resume below for your reference. Kindly message me if you have any questios or suggestions below."    
     buttonText = "Resume"
-    url = "blogs/asharib_siddiqui_resume/"
+    url = "resume/asharibsiddiquiresume"
 
 
   # Contact section
