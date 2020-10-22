@@ -12,7 +12,7 @@ title: About Me
 ---
 
 # My Journey
-I was born and raised in London, but spent my formative years living in Lahore and Dubai. Moving around every from a young age and living in such distinct cities around the world has had a profound impact on my personality and approach. It has made me more resilient and comfortable in the face of challenges and change.
+I was born and raised in London, but spent my formative years living in Lahore and Dubai. Moving around from a young age and living in such distinct cities around the world has had a profound impact on my personality and approach. It has made me more resilient and comfortable in the face of challenges and change.
 
 I completed my undergraduate education in Economics at King's College London, and studying a few modules in finance ignited my interest in the subject. Writing a debt and equity report of Barclays during one of the modules in my Third Year was an experience that I particularly enjoyed as I got the opportunity to use softwares like the Bloomberg Terminal and Microsoft Excel to apply topics I had learned in finance.
 
