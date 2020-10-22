@@ -5,8 +5,8 @@ categories:
 date: "2020-10-20"
 description: 
 draft: false
-image: Asharib_Siddiqui_Resume.jpg
+image: resume10.jpg
 keywords: ""
-slug: Asharib_Siddiqui_Resume
+slug: resume10
 title: Resume
 ---
