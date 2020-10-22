@@ -69,7 +69,7 @@ disqusShortname = ""
     # Button Style 1
     [[params.navigation.button1]]
       name = "Resume"
-      url = "blogs/asharib_siddiqui_resume"
+      url = "resume/resume10"
 
     # Button Style 2
 #    [[params.navigation.button2]]
@@ -179,7 +179,7 @@ disqusShortname = ""
 
     [[params.contact.phone]]
     title = "Mobile Phone"
-    phone = "+ 44 7867867080"
+    phone = "Available Upon Request"
 
     [[params.contact.address]]
     title = "Address"
